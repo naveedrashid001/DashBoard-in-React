@@ -1,0 +1,12 @@
+#DashBoard using react
+
+npm i 
+
+npm run dev 
+
+http://localhost:5173/
+
+
+i use chakra for styling 
+
+
